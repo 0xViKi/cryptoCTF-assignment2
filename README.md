@@ -54,9 +54,6 @@ The program will:
 - Identify words in the plaintext
 - Generate and display the flag
 
-## Demo
-![image](https://github.com/user-attachments/assets/d6d48363-a372-4fab-874c-6bf0268b2340)
-
 ## How It Works
 
 ### Decryption Process
@@ -107,6 +104,9 @@ A monoalphabetic substitution cipher that uses the function (ax + b) mod 26 for 
 
 ### Caesar Cipher
 A substitution cipher where each letter is shifted by a fixed number of positions.
+
+## Demo
+![image](https://github.com/user-attachments/assets/d6d48363-a372-4fab-874c-6bf0268b2340)
 
 ## Contributing
 
