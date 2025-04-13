@@ -54,6 +54,9 @@ The program will:
 - Identify words in the plaintext
 - Generate and display the flag
 
+## Demo
+![image](https://github.com/user-attachments/assets/d6d48363-a372-4fab-874c-6bf0268b2340)
+
 ## How It Works
 
 ### Decryption Process
